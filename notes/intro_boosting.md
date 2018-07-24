@@ -1,6 +1,6 @@
 ## Key points
 
-- AdaBoost is a boosting algorithm which works by combining the predictions of a sequence of weak learners. These weak learners could be, for example, simple rule of thumbs.
+- AdaBoost is a boosting algorithm which works by combining the predictions of a sequence of weak learners. These weak learners could be, for example, the simple rules of thumb.
 
 - The algorithm keeps track of a distribution of weights over each $(x_{i},y_{i})$ pairs, and updates this distribution to put more weight on the misclassified examples.
 

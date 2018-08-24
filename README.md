@@ -1,3 +1,7 @@
+**2018-08**
+
+- [A Conceptual Introduction to Hamiltonian Monte Carlo](https://arxiv.org/abs/1701.02434)
+
 **2018-07**
 
 - [Neural Combinatorial Optimization with Reinforcement Learning](https://arxiv.org/abs/1611.09940)
